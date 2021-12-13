@@ -1,0 +1,10 @@
+<========================= Mass Email Application =========================>
+
+This file is created to send an email to multiple recieptants with various email bodies according to each person's attributes.
+receptants and their unique attribtes are defined in "Emails.csv" file.
+by default it is in the same location as the executable code exist but feel free to give a complete new path to the file.
+This email can contain an attachement that is in the same path of the cose, but again you can write a new path instead.
+
+Please set sender credential as the one you are supposed to use.
+
+Important: This code contains server setting and credential that are confidential data!
